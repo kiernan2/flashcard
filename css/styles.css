@@ -1,0 +1,75 @@
+#js-answer {
+  display: none;
+}
+
+#op-answer {
+  display: none;
+}
+
+#va-answer {
+  display: none;
+}
+
+#vnc-answer {
+  display: none;
+}
+
+#fun-answer {
+  display: none;
+}
+
+#met-answer {
+  display: none;
+}
+
+#arg-answer {
+  display: none;
+}
+
+#par-answer {
+  display: none;
+}
+
+#ret-answer {
+  display: none;
+}
+
+#cm-answer {
+  display: none;
+}
+
+#str-answer {
+  display: none;
+}
+
+#boo-answer {
+  display: none;
+}
+
+#und-answer {
+  display: none;
+}
+
+#nan-answer {
+  display: none;
+}
+
+#null-answer {
+  display: none;
+}
+
+#al-answer {
+  display: none;
+}
+
+#com-answer {
+  display: none;
+}
+
+#jq-answer {
+  display: none;
+}
+
+#att-answer{
+  display: none;
+}
